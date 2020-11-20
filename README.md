@@ -133,8 +133,4 @@ $ explain select * from users where prefecture = 13 and status = 4;
 # 実際にクエリを打ってみます。
 $ select * from users where prefecture = 13 and status = 4;
 > 891 rows in set (0.00 sec)
-
-# 次に実験です。
-# prefecture -> status という順番を逆にしてみましょう。
-$ select * from users where status = 4 and  prefecture = 13;
 ```
