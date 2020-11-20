@@ -1,3 +1,4 @@
 undo*
 binlog*
 \#innodb_temp*
+ibtmp*
