@@ -1,4 +1,4 @@
-# m_index_hands_on
+# mysql_index_hands_on
 
 ## setup
 
